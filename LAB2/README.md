@@ -70,12 +70,15 @@ Install and start a web server (Apache HTTPD) on the EC2 instance using user dat
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
 
+<img width="1919" height="931" alt="image" src="https://github.com/user-attachments/assets/0e6f7874-daf5-473b-a33a-ffbbd256b28e" />
+0<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/7bd42057-3d5b-4355-a228-473cb5418f76" />
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
+<img width="1333" height="848" alt="image" src="https://github.com/user-attachments/assets/21b8deb3-e31c-4225-84fb-73300aec5e33" />
 
 
 ---
@@ -84,6 +87,7 @@ Install and start a web server (Apache HTTPD) on the EC2 instance using user dat
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
 
+<img width="1353" height="859" alt="image" src="https://github.com/user-attachments/assets/22d843c1-76ee-4666-971d-d0e53d5ce819" />
 
 ---
 
