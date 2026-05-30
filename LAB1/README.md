@@ -34,6 +34,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 **Screenshot:**
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/b213f5d3-15fc-4ab7-bec8-fce070ef46e7" />
 
 
 ### Task 2: Add Users to Groups
@@ -44,6 +45,7 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 **Screenshot:**
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/cca18114-cb90-4241-8da3-8ed0ca4932cc" />
 
 
 ### Task 3: Test IAM User Permissions
@@ -55,6 +57,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 **Screenshot:**
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/366e4ee4-adf5-429a-8536-31878408c2b6" />
+<img width="1919" height="934" alt="e63e5a05-8f5a-48b9-9af4-0347c451161c" src="https://github.com/user-attachments/assets/4618a30c-2702-43a0-95d5-994240fe884b" />
 
 
 ## Workflow
