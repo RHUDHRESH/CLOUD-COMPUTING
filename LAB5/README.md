@@ -84,12 +84,14 @@ Test the database server by connecting to it locally or remotely and performing 
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
 
+<img width="1274" height="829" alt="image" src="https://github.com/user-attachments/assets/1c722171-8cf5-4bc3-a312-7437e7e16507" />
 
 ---
 
 ### Screenshot 2: Database Service Running
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
+<img width="1264" height="835" alt="image" src="https://github.com/user-attachments/assets/e721afe0-5181-45d7-93de-022aacfe5e39" />
 
 
 ---
@@ -97,6 +99,7 @@ Test the database server by connecting to it locally or remotely and performing 
 ### Screenshot 3: Sample Database and Table
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
+<img width="1659" height="813" alt="image" src="https://github.com/user-attachments/assets/d84d35fc-2e93-4aa9-9c85-1d8b6407c537" />
 
 
 ---
