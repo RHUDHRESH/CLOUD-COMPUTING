@@ -80,13 +80,6 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ---
 
-## Workflow (Student Explanation)
-(Write the steps you followed in your own words)
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
 
 ---
 
@@ -96,6 +89,8 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
 
+<img width="1341" height="836" alt="image" src="https://github.com/user-attachments/assets/0c5854cf-8c1e-4919-9ccd-0f53b1f366f7" />
+
 
 ---
 
@@ -103,6 +98,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
 
+<img width="1337" height="835" alt="image" src="https://github.com/user-attachments/assets/9d98d695-cbe7-41b8-aa56-5ce737e2c9a7" />
 
 ---
 
@@ -110,6 +106,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 <!-- PASTE SCREENSHOT HERE (Ctrl+V in the editor below) -->
 
+<img width="1328" height="835" alt="image" src="https://github.com/user-attachments/assets/7523f9fd-db7e-4a19-a509-2fcad02ad1a0" />
 
 ---
 
